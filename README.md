@@ -1,3 +1,11 @@
+Updated the installer and confirmed all are now working. When installing, you will be asked for a username and password. You can skip and add later if needed
+
+Also added a new user management menu
+
+To pull this branch: git clone --branch v2 --single-branch [https://github.com/trollminer/OpenWebRX_DSDFME.git](https://github.com/trollminer/Openwebrx-Installer.git)
+
+---
+
 OpenWebRX+ Installer
 
 A menu-driven Bash installer for OpenWebRX+
