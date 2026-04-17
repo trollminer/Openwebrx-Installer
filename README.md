@@ -1,3 +1,11 @@
+Please note: 
+Please use the V2 script - 
+git clone --branch v2 --single-branch https://github.com/trollminer/OpenWebRX_DSDFME.git
+
+V2 Branch - https://github.com/trollminer/Openwebrx-Installer/tree/v2
+
+---
+
 OpenWebRX+ Installer
 
 A menu-driven Bash installer for OpenWebRX+
